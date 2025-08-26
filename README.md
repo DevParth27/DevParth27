@@ -88,8 +88,6 @@ Healthcare solution for rural India with doctor-patient appointments and health 
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DevParth27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=DevParth27&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevParth27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
