@@ -85,14 +85,14 @@ Healthcare solution for rural India with doctor-patient appointments and health 
 - Coordinated **"Bidcas" coding contest** with 300+ participants
 - Represented college in **university-level table tennis tournaments**
 
-# 📊 GitHub Stats:
-<div align="center">
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=DevParth27&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=DevParth27&theme=dark&hide_border=true)
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=devparth27)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api.svg?username=DevParth27&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs.svg?username=DevParth27&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 <div align="center">
