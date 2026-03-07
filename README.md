@@ -20,6 +20,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/41324552/parth-upadhye)
 
 ## 💼 Professional Experience:
+- **Flutter and AI Developer** @ 1Carehealth (Sept 2025 – Present)
 - **Flutter Developer** @ Kartavya Tech (Jun 2025 – Jul 2025)
 - **Flutter & Laravel Developer** @ Valethi Technologies (May – Jul 2025)
 - **Tech Lead** of Flutter Application in Unnat Bharat Abhiyan
@@ -118,9 +119,6 @@ Backend system that processes **large documents and generates structured summari
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DevParth27&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api.svg?username=DevParth27&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs.svg?username=DevParth27&layout=compact&theme=dark&hide_border=true)
 
 
 ---
