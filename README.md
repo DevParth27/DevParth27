@@ -1,13 +1,15 @@
 # 💫 About Me:
-🔭 I'm currently working on **Flutter Development** and **Full-Stack Applications**<br>
-👨‍💻 **Flutter & Laravel Developer** with experience at Kartavya Tech and Valethi Technologies<br>
-🎓 **B.Tech Computer Engineering** student at St. Vincent Pallotti College (GPA: 8.27)<br>
-🚀 Built **Noto.ai** - AI assistant app available on Play Store<br>
-🏥 Developed **DoctoAssist** - E-healthcare platform for rural India<br>
-👯 I'm looking to collaborate on **Mobile App Development** and **AI-powered solutions**<br>
-🤝 I'm looking for help with **recent trends in Tech Market** and **Software Engineering**<br>
-🌱 I'm currently learning **AI integration**, **scalable backend architectures**, and **modern development practices**<br>
-💬 Ask me about **Flutter**, **Laravel**, **Cross-platform development**, or **anything tech-related**!<br>
+🔭 I'm currently working on **Flutter Development**, **AI-powered applications**, and **Full-Stack Platforms**<br>
+👨‍💻 **Flutter & Laravel Developer** with experience at **Kartavya Tech** and **Valethi Technologies**<br>
+🎓 **B.Tech Computer Engineering** student at **St. Vincent Pallotti College (GPA: 8.27)**<br>
+🚀 Built **Noto.ai** – AI-powered study assistant available on **Google Play Store**<br>
+🏥 Developed **DoctoAssist** – E-healthcare platform designed for **rural India**<br>
+🌍 Currently building a **Volunteer Management System for Sewa International**<br>
+📊 Built **Migration Validator Dashboard** to validate Excel data before production migration<br>
+👯 I'm looking to collaborate on **Mobile App Development**, **AI-powered platforms**, and **scalable systems**<br>
+🤝 I'm looking for help with **latest trends in the Tech Market**, **AI engineering**, and **system design**<br>
+🌱 I'm currently learning **AI integration**, **cloud architecture**, **DevOps**, and **scalable backend systems**<br>
+💬 Ask me about **Flutter**, **Laravel**, **Full-Stack Development**, **AI integration**, or **anything tech-related**!<br>
 📍 Based in **Nagpur, Maharashtra, India**
 
 ## 🌐 Socials:
@@ -24,14 +26,41 @@
 - Conducted **3+ Flutter workshops** for college students
 
 ## 🚀 Featured Projects:
+
 ### 🤖 [Noto.ai](https://play.google.com/store/apps/details?id=com.noto.ai) - *Available on Play Store*
-AI assistant for document summarization, flashcard generation, and interactive Q&A
-- **Tech Stack:** Flutter Web, Firebase, Google Cloud, Ollama Model, PDF/Docx Parsing, Node Js
+AI assistant for **document summarization, flashcard generation, and interactive Q&A** to help students study smarter.
+- **Features:** PDF & DOCX summarization, flashcard generation, AI Q&A, document processing
+- **Tech Stack:** Flutter Web, Firebase, Google Cloud, Ollama Model, PDF/Docx Parsing, Node.js
+
 
 ### 🏥 [DoctoAssist](https://github.com/DevParth27/DoctoAssist) - *E-healthcare Platform*
-Healthcare solution for rural India with doctor-patient appointments and health data management
-- **Tech Stack:** Flutter, Firebase Auth, Firestore, Maps API
+Healthcare solution designed for **rural India** with doctor discovery, appointment booking, and health data management.
+- **Features:** Doctor-patient appointments, location-based doctor discovery, secure authentication, health records
+- **Tech Stack:** Flutter, Firebase Auth, Firestore, Google Maps API
 
+
+### 🌍 Volunteer Management System - *Sewa International*
+Volunteer coordination platform for **managing volunteers, events, and participation data** for social initiatives.
+- **Features:** Volunteer registration, event management, participation tracking, admin dashboard
+- **Tech Stack:** Flutter, Backend APIs, Database Management
+
+
+### 📊 Migration Validator Dashboard - *Enterprise Data Validation Tool*
+A dashboard that **validates Excel migration data before production deployment** to prevent incorrect records entering the system.
+- **Features:** Excel validation engine, error highlighting, auto-corrected file generation, migration audit reporting
+- **Tech Stack:** Node.js, Excel Parsing Libraries, Data Validation Engine
+
+
+### 🧠 Instagram Spam Detection - *Machine Learning Project*
+Machine learning system to **detect fake or spam Instagram accounts** using profile and engagement data.
+- **Features:** Spam detection models, feature engineering, dataset analysis
+- **Tech Stack:** Python, Scikit-learn, Random Forest, XGBoost, Graph Neural Networks
+
+
+### 📄 AI Document Summarizer - *AI Backend Service*
+Backend system that processes **large documents and generates structured summaries using AI models**.
+- **Features:** Document chunking, multi-stage summarization, API-based architecture
+- **Tech Stack:** Node.js, HuggingFace Models, AI Pipelines
 ## 💻 Tech Stack:
 
 ### **Languages:**
