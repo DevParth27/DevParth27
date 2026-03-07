@@ -1,6 +1,10 @@
 # 💫 About Me:
+💼 **Freelance Mobile & Full-Stack Developer**, delivering real-world applications and scalable systems<br>
+📱 Successfully **deployed 3+ mobile applications on Google Play Store**<br>
+🌐 **Deployed 2+ fully functional production websites** for real-world use<br>
 🔭 I'm currently working on **Flutter Development**, **AI-powered applications**, and **Full-Stack Platforms**<br>
 👨‍💻 **Flutter & Laravel Developer** with experience at **Kartavya Tech** and **Valethi Technologies**<br>
+💼 **Freelance Mobile & Full-Stack Developer**, delivering real-world applications and scalable systems<br>
 🎓 **B.Tech Computer Engineering** student at **St. Vincent Pallotti College (GPA: 8.27)**<br>
 🚀 Built **Noto.ai** – AI-powered study assistant available on **Google Play Store**<br>
 🏥 Developed **DoctoAssist** – E-healthcare platform designed for **rural India**<br>
@@ -11,6 +15,7 @@
 🌱 I'm currently learning **AI integration**, **cloud architecture**, **DevOps**, and **scalable backend systems**<br>
 💬 Ask me about **Flutter**, **Laravel**, **Full-Stack Development**, **AI integration**, or **anything tech-related**!<br>
 📍 Based in **Nagpur, Maharashtra, India**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-upadhye) 
