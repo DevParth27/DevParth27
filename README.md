@@ -1,112 +1,85 @@
+
 # 💫 About Me:
+
 💼 **Freelance Mobile & Full-Stack Developer**, delivering real-world applications and scalable systems<br>
-📱 Successfully **deployed 3+ mobile applications on Google Play Store**<br>
-🌐 **Deployed 2+ fully functional production websites** for real-world use<br>
+📱 Published **Noto.ai** and **CLAIRE.AI** on the **Google Play Store**<br>
+🌐 **Deployed 2+ production websites** for real-world use<br>
 🔭 I'm currently working on **Flutter Development**, **AI-powered applications**, and **Full-Stack Platforms**<br>
-👨‍💻 **Flutter & Laravel Developer** with experience at **Kartavya Tech** and **Valethi Technologies**<br>
-💼 **Freelance Mobile & Full-Stack Developer**, delivering real-world applications and scalable systems<br>
-🎓 **B.Tech Computer Engineering** student at **St. Vincent Pallotti College (GPA: 8.27)**<br>
+👨‍💻 **Flutter Developer Intern** at **1CareHealth** (Sept 2025 – Nov 2026), earlier experience at **Kartavya Tech** and **Valethi Technologies**<br>
+🎓 **B.Tech Computer Engineering** from **St. Vincent Pallotti College (CGPA: 8.07)**<br>
 🚀 Built **Noto.ai** – AI-powered study assistant available on **Google Play Store**<br>
 🏥 Developed **DoctoAssist** – E-healthcare platform designed for **rural India**<br>
-🌍 Currently building a **Volunteer Management System for Sewa International**<br>
+🌍 Built a **Volunteer Management System for Sewa International**<br>
 📊 Built **Migration Validator Dashboard** to validate Excel data before production migration<br>
 👯 I'm looking to collaborate on **Mobile App Development**, **AI-powered platforms**, and **scalable systems**<br>
-🤝 I'm looking for help with **latest trends in the Tech Market**, **AI engineering**, and **system design**<br>
 🌱 I'm currently learning **AI integration**, **cloud architecture**, **DevOps**, and **scalable backend systems**<br>
 💬 Ask me about **Flutter**, **Laravel**, **Full-Stack Development**, **AI integration**, or **anything tech-related**!<br>
 📍 Based in **Nagpur, Maharashtra, India**
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-upadhye) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:parth.upadhye.4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevParth27)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Dry-Persimmon8020/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/41324552/parth-upadhye)
+
+[LinkedIn](https://linkedin.com/in/parth-upadhye) [Gmail](mailto:parth.upadhye.4@gmail.com) [GitHub](https://github.com/DevParth27) [Reddit](https://www.reddit.com/user/Dry-Persimmon8020/) [Stack Overflow](https://stackexchange.com/users/41324552/parth-upadhye)
 
 ## 💼 Professional Experience:
-- **Flutter and AI Developer** @ 1Carehealth (Sept 2025 – Present)
+
+- **Flutter Developer Intern** @ 1CareHealth (Sept 2025 – Nov 2026)
+- **Freelance Full-Stack Developer** (Sept 2024 – Present)
 - **Flutter Developer** @ Kartavya Tech (Jun 2025 – Jul 2025)
-- **Flutter & Laravel Developer** @ Valethi Technologies (May – Jul 2025)
+- **Flutter & Backend Developer** @ Valethi Technologies (May – Jul 2024)
 - **Tech Lead** of Flutter Application in Unnat Bharat Abhiyan
-- Conducted **3+ Flutter workshops** for college students
+- Conducted **3 Flutter workshops** for 350+ students
 
 ## 🚀 Featured Projects:
 
-### 🤖 [Noto.ai](https://play.google.com/store/apps/details?id=com.noto.ai) - *Available on Play Store*
+### 🤖 Noto.ai - *Available on Play Store*
 AI assistant for **document summarization, flashcard generation, and interactive Q&A** to help students study smarter.
 - **Features:** PDF & DOCX summarization, flashcard generation, AI Q&A, document processing
-- **Tech Stack:** Flutter Web, Firebase, Google Cloud, Ollama Model, PDF/Docx Parsing, Node.js
+- **Tech Stack:** Flutter, Firebase, Google Cloud, AI API with optional local LLM (Ollama), PDF/Docx Parsing, Node.js
 
-
-### 🏥 [DoctoAssist](https://github.com/DevParth27/DoctoAssist) - *E-healthcare Platform*
+### 🏥 DoctoAssist - *E-healthcare Platform*
 Healthcare solution designed for **rural India** with doctor discovery, appointment booking, and health data management.
 - **Features:** Doctor-patient appointments, location-based doctor discovery, secure authentication, health records
 - **Tech Stack:** Flutter, Firebase Auth, Firestore, Google Maps API
-
 
 ### 🌍 Volunteer Management System - *Sewa International*
 Volunteer coordination platform for **managing volunteers, events, and participation data** for social initiatives.
 - **Features:** Volunteer registration, event management, participation tracking, admin dashboard
 - **Tech Stack:** Flutter, Backend APIs, Database Management
 
-
 ### 📊 Migration Validator Dashboard - *Enterprise Data Validation Tool*
 A dashboard that **validates Excel migration data before production deployment** to prevent incorrect records entering the system.
 - **Features:** Excel validation engine, error highlighting, auto-corrected file generation, migration audit reporting
 - **Tech Stack:** Node.js, Excel Parsing Libraries, Data Validation Engine
-
 
 ### 🧠 Instagram Spam Detection - *Machine Learning Project*
 Machine learning system to **detect fake or spam Instagram accounts** using profile and engagement data.
 - **Features:** Spam detection models, feature engineering, dataset analysis
 - **Tech Stack:** Python, Scikit-learn, Random Forest, XGBoost, Graph Neural Networks
 
-
 ### 📄 AI Document Summarizer - *AI Backend Service*
 Backend system that processes **large documents and generates structured summaries using AI models**.
 - **Features:** Document chunking, multi-stage summarization, API-based architecture
 - **Tech Stack:** Node.js, HuggingFace Models, AI Pipelines
+
 ## 💻 Tech Stack:
 
 ### **Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+C C++ Java Python Dart JavaScript TypeScript PHP SQL
 
 ### **Frameworks & Libraries:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Flutter Laravel React Native NodeJS
 
 ### **Cloud & Databases:**
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Firebase Google Cloud AWS MongoDB PostgreSQL MySQL
 
 ### **Tools & Technologies:**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+VS Code Android Studio Git Docker Figma Jenkins
 
 ### **APIs & Integration:**
-![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge&logo=rest&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+REST API OpenAI
 
 ## 🎯 Areas of Interest:
+
 - **Mobile App Development** (Cross-platform)
 - **AI Integration** & **Machine Learning**
 - **Full-Stack Web Development**
@@ -115,21 +88,21 @@ Backend system that processes **large documents and generates structured summari
 - **EdTech Solutions**
 
 ## 🏆 Leadership & Activities:
+
 - **Tech Lead** of Flutter Application in Unnat Bharat Abhiyan
-- Conducted **3+ hands-on Flutter workshops** for college students
+- Conducted **3 hands-on Flutter workshops** for 350+ students
 - Coordinated **"Bidcas" coding contest** with 300+ participants
 - Represented college in **university-level table tennis tournaments**
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevParth27&theme=dark&hide_border=true)
-
-
+GitHub Streak
 
 ---
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=DevParth27&icon=0&color=0)](https://visitcount.itsvg.in)
+[](https://visitcount.itsvg.in)
 
 **"Building impactful solutions with modern technology"**
 
