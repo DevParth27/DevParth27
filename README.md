@@ -96,13 +96,13 @@ REST API OpenAI
 
 ## 📊 GitHub Stats
 
-GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevParth27&theme=dark&hide_border=true)
 
 ---
 
-<div align="center">
-
-[](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevParth27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **"Building impactful solutions with modern technology"**
 
